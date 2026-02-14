@@ -11,7 +11,6 @@ To evaluate feasibility for edge deployment, I compared the inference time of `B
 * **Implication:** Knowledge distillation significantly reduces computational cost with minimal architectural changes, validating its use for latency-sensitive applications.
 
 ![Inference Latency Graph](latency_graph.png)
-*(Note: Replace this path with your actual image filename)*
 
 ### 2. Gender Bias Quantification
 Using a probing pipeline, I evaluated the model's probability distribution for gendered pronouns ("He" vs. "She") across various professions.
